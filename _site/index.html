@@ -1,0 +1,92 @@
+<html>
+	<head>
+		<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" type="text/css" href="/css/socialicious.css">
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		<link rel="stylesheet" type="text/css" href="/css/monokai.css">
+		<link href="/blog/rss.xml" rel="alternate" type="application/rss+xml" title="KSUCCDC" />
+		<title>KSUCCDC</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<script type="text/javascript" src='/js/jquery.min.js'></script>
+		<script type="text/javascript" src='/js/jquery.masonry.min.js'></script>
+		<script type="text/javascript" src='/js/jquery.imagesloaded.min.js'></script>
+		<script type="text/javascript" src='/js/highlight.pack.js'></script>
+		<script type="text/javascript">
+			hljs.initHighlightingOnLoad();
+			function applyTiles() {
+				var posts = $('#posts ul');
+				posts.imagesLoaded(function() {
+					$('#posts ul').masonry({ itemSelector : '.post' });;
+				});
+			}
+			$(function() {
+				applyTiles();
+			});
+			$(window).resize(function() {
+				applyTiles();
+			});
+		</script>
+		<style type="text/css">
+		</style>
+	</head>
+	<body>
+		<div id='layout'>
+			<div id='heading'>
+	<div id='logo'>
+		<a href='http://localhost:4000'>KSU</a>
+		<a href='http://localhost:4000' id='logo_docs'>Cyber Defense</a>
+</div>
+</div>
+<section id="home-hero"></section>
+
+			<div style='clear: both'></div>
+		</div>
+		<div id='content' class="hp">
+			<div id='posts' class="leftblock">
+				<ul>
+					
+						<li class='post'>
+							
+								<a href='/blog/post2/'><img class='post-image' src="/images/blog/hacked.jpg" /></a>
+							
+							<div class="postcontent">
+					<a href='/blog/post2/'><h1 class='post-title'>KSU SECCDC December Security Audit</h1></a>
+
+								<div class='post-content'>KSU SECCDC First Audit</div>
+							</div>
+						</li>
+					
+						<li class='post'>
+							
+								<a href='/blog/post1/'><img class='post-image' src="/images/blog/sharepoint.jpg" /></a>
+							
+							<div class="postcontent">
+					<a href='/blog/post1/'><h1 class='post-title'>Securing Microsoft Sharepoint Server</h1></a>
+
+								<div class='post-content'>Guidline to Securing a Sharepoint Server</div>
+							</div>
+						</li>
+					
+				</ul>
+			</div>
+			<div class="rightblock">
+				<b>This is a page for the KSU CCDC</b>
+<p>
+  This page has been created so that the KSU team can upload relavant articles, and other information that can be used to reference while preparing for the CCDC.
+</p>
+<p>
+The color combination used here comes from <a href="http://clrs.cc" target="_blank">CLRS</a>.
+</p>
+<b>Check out our Facebook Page</b>
+<b></b>
+<b></b>
+<p> <a href="https://www.facebook.com/events/1592314321063042/" target="_blank"><img src="/svg/facebook.svg"></a> </p>
+
+			</div>
+			<div style='clear:both'></div>
+		</div>
+		<div id='footer'>
+			<a href="/about/">About</a> | <a href="https://www.facebook.com/events/1592314321063042/">KSUCCDC</a> | KSU Cyber Defense Team - 2016
+		</div>
+	</div>
+</body>
+</html>
