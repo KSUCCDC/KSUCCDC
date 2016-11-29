@@ -1,0 +1,11 @@
+permalink: /:categories/:title/
+url: "http://ksuccdc.com"
+full_name: "KSU Cyber Defense Team"
+first_name: "KSU"
+last_name: "Cyber Defense"
+blog_title: "KSUCCDC"
+author_img_name_path: "/images/users/user.jpg"
+disqus_shortname: "Team Page"
+copyright_year: "2016"
+google_analytics_code: ""
+aboutme: "Homepage for Kennesaw State's Cyber Defense Competition Team"
