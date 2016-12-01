@@ -27,6 +27,9 @@ Upload files from explorer to your OneDrive for business or sites library
 -open sharepoint site library
 -click upload - add files
 
+
+<img src="/images/blog/SharepointSiteLibrary.png">
+
 Here is a video to help. <a href="https://youtu.be/NTeo__NOy2g" target="_blank">Upload to Sharepoint</a>
 
 Uploading large files or many files
@@ -42,7 +45,25 @@ Extra Features
 
 
 
-### Quote
+Open a Document in a document library
+
+Click to open the document you want to work on
+
+click edit document, pick where you want to edit it
+
+
+
+<img src="images/blog/SharepointOpenDocument.png">
+
+
+Working with others on the same document
+
+The people currently working on the document appear at the bottom
+
+
+
+<img src="images/blog/SharepointOthersEditing.png">
+
 
 Final line
 
