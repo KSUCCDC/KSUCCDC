@@ -53,7 +53,7 @@ click edit document, pick where you want to edit it
 
 
 
-<img src="images/blog/SharepointOpenDocument.png">
+<img src="/images/blog/SharepointOpenDocument.png">
 
 
 Working with others on the same document
@@ -62,7 +62,7 @@ The people currently working on the document appear at the bottom
 
 
 
-<img src="images/blog/SharepointOthersEditing.png">
+<img src="/images/blog/SharepointOthersEditing.png">
 
 
 Final line
