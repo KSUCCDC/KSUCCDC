@@ -20,14 +20,14 @@ Uploading to one drive/sharepoint server
 
 upload files to a library:
 	note: You must have admin permissions to contribute to a library
-		-Some File types are blocked by default, go to this link to see what filetypes are blocked <a href="https://support.office.com/en-us/article/Types-of-files-that-cannot-be-added-to-a-list-or-library-30be234d-e551-4c2a-8de8-f8546ffbf5b3" target="_blank">Blocked file extensions</a>.
+	-Some File types are blocked by default, go to this link to see what filetypes are blocked <a href="https://support.office.com/en-us/article/Types-of-files-that-cannot-be-added-to-a-list-or-library-30be234d-e551-4c2a-8de8-f8546ffbf5b3" target="_blank">Blocked file extensions</a>.
 You can also manage these extensions, here is a guide <a href="https://technet.microsoft.com/en-us/library/cc262496.aspx" target="_blank">Manage Blocked File types</a>.
 
 Upload files from explorer to your OneDrive for business or sites library
 	-open sharepoint site library
 		-click upload - add files
 
-	Here is a video to help<a href="https://youtu.be/NTeo__NOy2g">Upload to Sharepoint</a>
+	Here is a video to help. <a href="https://youtu.be/NTeo__NOy2g" target="_blank">Upload to Sharepoint</a>
 
 Uploading large files or many files
 	- Should only upload 100 or fewer files
